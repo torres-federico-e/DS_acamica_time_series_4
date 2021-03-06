@@ -1,0 +1,3 @@
+## PROYECTO 4 - Mejora modelo Serie de tiempo (en desarrollo..)  
+
+El siguiente Notebook explora nuevos atributos y posibles mejoras en el contexto de un trabajo realizado sobre series de tiempo desarrollado anteriormente, un modelo de series de tiempo sobre un [Dataset de Tráfico de autopistas AUSA](https://data.buenosaires.gob.ar/dataset/flujo-vehicular-por-unidades-peaje-ausa). Como tal explora algunas opciones asequibles y nuevas librerias, para un acercamiento básico a este tipo de problemas y las ventajas y desventajas de los distintos enfoques, incluyendo la implementacion y realizacion de predicciones utilizando la libreria de Facebook `Prophet`. 
